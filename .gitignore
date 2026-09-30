@@ -1,0 +1,181 @@
+# Enviroment variable
+.env
+.env.*
+!.ev.example
+
+# AWS credentials and secrets
+.aws/
+credentials
+*.pem
+*.key
+*.p12
+*.pfx
+
+# SSH
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local secrets
+secrets/
+*.secret# Enviroment variable
+.env
+.env.*
+!.ev.example
+
+# AWS credentials and secrets
+.aws/
+credentials
+*.pem
+*.key
+*.p12
+*.pfx
+
+# SSH
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local secrets
+secrets/
+*.secret# Enviroment variable
+.env
+.env.*
+!.ev.example
+
+# AWS credentials and secrets
+.aws/
+credentials
+*.pem
+*.key
+*.p12
+*.pfx
+
+# SSH
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local secrets
+secrets/
+*.secret# Enviroment variable
+.env
+.env.*
+!.ev.example
+
+# AWS credentials and secrets
+.aws/
+credentials
+*.pem
+*.key
+*.p12
+*.pfx
+
+# SSH
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local secrets
+secrets/
+*.secret

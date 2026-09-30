@@ -37,6 +37,8 @@ Status: **In Progress**
 ├── screenshots/
 └── scripts/
 
+```
+
 ## Documentation Philosophy
 
 This repository does not document every console click.
